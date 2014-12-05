@@ -45,6 +45,8 @@
     <TypeScriptCompile Include="Crawler.ts" />
     <TypeScriptCompile Include="Scanner.ts" />
     <TypeScriptCompile Include="TextScanner.ts" />
+    <TypeScriptCompile Include="training\FStatistics.ts" />
+    <TypeScriptCompile Include="training\GetDataset.ts" />
     <TypeScriptCompile Include="training\Training.ts" />
   </ItemGroup>
   <ItemGroup>
