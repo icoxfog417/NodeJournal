@@ -1,0 +1,17 @@
+{
+  "name": "NodeJournal",
+  "version": "0.0.1",
+  "description": "read web site and summarize it like newspaper",
+  "main": "Crawl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "icoxfog417",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.3.11",
+    "cheerio": "^0.18.0",
+    "neuraln": "^0.2.1",
+    "phantom": "git+https://github.com/sgentle/phantomjs-node.git"
+  }
+}
